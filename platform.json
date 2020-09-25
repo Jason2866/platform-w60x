@@ -36,7 +36,7 @@
     "framework-wm60x-sdk": {
       "type": "framework",
       "optional": true,
-      "version": "~1.30400.0"
+      "version": ""
     },
     "framework-arduino-w60x": {
       "type": "framework",
