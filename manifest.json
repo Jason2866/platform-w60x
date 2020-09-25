@@ -1,20 +1,11 @@
 {
   "framework-wm60x-sdk": [
     {
-      "sha1": "to-be-done",
       "system": "*",
-      "url": "<to be filled>.tar.gz",
+      "url": "https://github.com/Jason2866/platform-w60x/releases/download/3.4.0/framework-wm60x-sdk.zip",
       "version": "1.30400.0"
     }
   ], 
-  "tool-openocd-w60x": [
-    {
-      "sha1": "to-be-done",
-      "system": "*",
-      "url": "<to be filled>.tar.gz",
-      "version": "1.1000.0"
-    }
-  ],
   "tool-w60x-download": [
     {
       "sha1": "b410ddc7222521d65e79228ffb8bcc8e130b179d",
